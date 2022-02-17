@@ -1,1 +1,1 @@
-# Lab-3
+This register file code will take 5-bit inputs once enabled, and assign 32-bit values to 32 different locations. Then, with a clock, reset, and load input, these locations will be saved under 32 different registers. Then, these registers will be input into 2 different multiplexers, while being given one 5-bit read address each, and the register file will output 2 32-bit outputs, one from each multiplexer.
